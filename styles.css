@@ -1,0 +1,66 @@
+.container-fluid {
+  margin: 20px 20px 20px 20px;
+  background-color: black;
+  border-radius: 8px;
+}
+
+h1,
+h2,
+h3,
+.media,
+blockquote,
+.cite,
+.wiki-text {
+  color: white;
+}
+
+h2 {
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.photo-container img {
+  width: 100%;
+  height: auto;
+}
+
+.photo-text {
+  font-size: 16px;
+}
+
+.list-header {
+  list-style-type: none;
+  padding: 0px;
+  margin: 10px 20px 5px 20px;
+  font-size: 18px;
+}
+
+.list-header-first {
+  margin: 0px 20px 0px 20px;
+}
+
+.media li {
+  margin: 0px;
+  padding: 0px;
+}
+
+.media-text {
+  margin: 0px 20px 5px 20px;
+}
+
+blockquote {
+  margin: 20px 0px 0px 0px;
+}
+
+.cite {
+  font-style: italic;
+}
+
+hr {
+  margin: 20px;
+}
+
+.wiki-text {
+  margin: 40px 20px 30px 20px;
+  font-size: 22px;
+}
